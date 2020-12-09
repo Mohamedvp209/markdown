@@ -1,0 +1,7 @@
+- Auto-Open Markdown Preview extension: 
+it is gone give us a preview of what is going to like
+
+
+the previewer open automatically when you open a markdown file
+sample.md
+
